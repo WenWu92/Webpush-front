@@ -2,21 +2,289 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="985a055b-c3d7-495c-a64a-b299089d8542" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/js/login.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/test2.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/roboto/roboto-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/roboto/roboto-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/roboto/roboto.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/footable/css/fonts/footable.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/footable/css/fonts/footable.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/footable/css/fonts/footable.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/animate.css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/jquery/waves.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/assets/material-design-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/fonts/roboto/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-animate/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-aria/angular-aria.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-bootstrap-nav-tree/dist/abn_tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-bootstrap-nav-tree/dist/abn_tree_directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-bootstrap/ui-bootstrap-tpls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-cookies/angular-cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-file-upload/angular-file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-loading-bar/build/loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-loading-bar/build/loading-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-loading-bar/build/loading-bar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-loading-bar/build/loading-bar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-material/angular-material.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-material/angular-material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-messages/angular-messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-resource/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-sanitize/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-smart-table/dist/smart-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-smart-table/dist/smart-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-touch/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-translate-loader-static-files/angular-translate-loader-static-files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-translate-storage-cookie/angular-translate-storage-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-translate-storage-local/angular-translate-storage-local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-translate/angular-translate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-grid/ui-grid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-map/ui-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-router/release/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-select/dist/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-select/dist/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-select/dist/select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-select/dist/select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-ui-utils/ui-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-xeditable/dist/css/xeditable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-xeditable/dist/js/xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular-xeditable/dist/js/xeditable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/jquery.easy-pie-chart/dist/angular.easypiechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ng-grid/build/ng-grid.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ng-grid/build/ng-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ng-grid/build/ng-grid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ng-grid/ng-grid.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ng-grid/ng-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ngImgCrop/compile/minified/ng-img-crop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ngImgCrop/compile/minified/ng-img-crop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/ngstorage/ngStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/oclazyload/dist/ocLazyLoad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/oclazyload/dist/ocLazyLoad.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/textAngular/dist/textAngular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/textAngular/dist/textAngular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/venturocket-angular-slider/angular-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/venturocket-angular-slider/build/angular-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/angular/venturocket-angular-slider/build/angular-slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/animate.css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bower-jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bower-jvectormap/jquery-jvectormap-us-aea-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bower-jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/bower-jvectormap/jquery-jvectormap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/datatables/media/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/flot-spline/js/jquery.flot.spline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/flot.orderbars/js/jquery.flot.orderBars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/flot.tooltip/js/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/footable/css/fonts/footable.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/footable/css/footable.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/footable/dist/footable.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/jquery.easy-pie-chart/dist/jquery.easypiechart.fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/jquery.sparkline/dist/jquery.sparkline.retina.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/3/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/3/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/3/dataTables.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/plugins/integration/bootstrap/3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/screenfull/dist/screenfull.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/waves/dist/waves.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/waves/dist/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/waves/dist/waves.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/waves/dist/waves.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/libs/jquery/waves/dist/waves.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/styles/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/styles/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/materil/styles/material-design-icons.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/effect.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/finance.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/frame.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/mail.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/order.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/printOrder.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/sell.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/setting.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dev/css/webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/505.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/api/datatable.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/api/groups" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dashboard.analysis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dashboard.wall.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/forgot-password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/lockme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page.blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page.document.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page.profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page.settings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/signin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.chart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.arrow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.badge-label.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.progressbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.streamline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.component.timeline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.form.element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.form.layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.map.vector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.material.button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.material.card.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.material.color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.material.form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.material.icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.material.list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.table.datatable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.table.footable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/ui.table.static.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/lib/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/dev/lib/angular/angular.min.js.gzip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/lib/ng-file-upload/FileAPI.flash.swf" afterPath="$PROJECT_DIR$/dev/lib/ng-file-upload/FileAPI.flash.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/lib/zeroclipboard/dist/ZeroClipboard.swf" afterPath="$PROJECT_DIR$/dev/lib/zeroclipboard/dist/ZeroClipboard.swf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/common.css" afterPath="$PROJECT_DIR$/dev/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/effect.css" afterPath="$PROJECT_DIR$/dev/css/effect.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/finance.css" afterPath="$PROJECT_DIR$/dev/css/finance.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/frame.css" afterPath="$PROJECT_DIR$/dev/css/frame.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/login.css" afterPath="$PROJECT_DIR$/dev/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/mail.css" afterPath="$PROJECT_DIR$/dev/css/mail.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/order.css" afterPath="$PROJECT_DIR$/dev/css/order.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/sell.css" afterPath="$PROJECT_DIR$/dev/css/sell.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/setting.css" afterPath="$PROJECT_DIR$/dev/css/setting.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/js/common/constant.js" afterPath="$PROJECT_DIR$/dev/js/common/constant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/login.html" afterPath="$PROJECT_DIR$/dev/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/js/login.js" afterPath="$PROJECT_DIR$/dev/js/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/index.html" afterPath="$PROJECT_DIR$/dev/index_bak.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/LICENSE.txt" afterPath="$PROJECT_DIR$/dev/fonts/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/Material-Design-Icons.eot" afterPath="$PROJECT_DIR$/dev/fonts/Material-Design-Icons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/Material-Design-Icons.svg" afterPath="$PROJECT_DIR$/dev/fonts/Material-Design-Icons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/Material-Design-Icons.ttf" afterPath="$PROJECT_DIR$/dev/fonts/Material-Design-Icons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/Material-Design-Icons.woff" afterPath="$PROJECT_DIR$/dev/fonts/Material-Design-Icons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/dev/css/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/roboto/font.css" afterPath="$PROJECT_DIR$/dev/fonts/roboto/font.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/roboto/roboto-bold.woff" afterPath="$PROJECT_DIR$/dev/fonts/roboto/roboto-bold.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/roboto/roboto-light.woff" afterPath="$PROJECT_DIR$/dev/fonts/roboto/roboto-light.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/fonts/roboto/roboto.woff" afterPath="$PROJECT_DIR$/dev/fonts/roboto/roboto.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a0.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a1.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a10.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a2.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a3.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a4.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a5.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a6.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a7.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a8.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/a9.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/a9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/bg.png" afterPath="$PROJECT_DIR$/dev/materil/images/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c0.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c1.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c2.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c3.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c4.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c5.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c6.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c7.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c8.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/c9.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/c9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/logo.png" afterPath="$PROJECT_DIR$/dev/materil/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/p0.jpg" afterPath="$PROJECT_DIR$/dev/materil/images/p0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/dev/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/app.min.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/app.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/app.src.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/app.src.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-client.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-client.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-form.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-form.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-jp.config.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-jp.config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-jp.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-jp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-load.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-load.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-nav.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-nav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-toggle.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-toggle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scripts/ui-waves.js" afterPath="$PROJECT_DIR$/dev/materil/scripts/ui-waves.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/styles/app.css" afterPath="$PROJECT_DIR$/dev/css/app.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/styles/app.min.css" afterPath="$PROJECT_DIR$/dev/materil/styles/app.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/styles/font.css" afterPath="$PROJECT_DIR$/dev/css/font.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/styles/material-design-icons.css" afterPath="$PROJECT_DIR$/dev/css/material-design-icons.css" />
     </list>
     <ignored path="Webpush-front.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,51 +306,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.709389">
+              <caret line="566" column="47" selection-start-line="566" selection-start-column="47" selection-end-line="566" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui-nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/materil/scripts/ui-nav.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/index.html">
+        <entry file="file://$PROJECT_DIR$/template/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+            <state vertical-scroll-proportion="-16.083334">
+              <caret line="1041" column="0" selection-start-line="1041" selection-start-column="0" selection-end-line="1041" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/login.html">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/js/login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6644737">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constant.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/js/common/constant.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+            <state vertical-scroll-proportion="116.333336">
+              <caret line="347" column="1" selection-start-line="347" selection-start-column="1" selection-end-line="347" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -93,15 +351,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/dev/js/common/constant.js" />
         <option value="$PROJECT_DIR$/dev/login.html" />
+        <option value="$PROJECT_DIR$/dev/js/common/constant.js" />
         <option value="$PROJECT_DIR$/dev/js/login.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/template/html/scripts/app.min.js" />
+        <option value="$PROJECT_DIR$/dev/css/assets/material-design-icons.css" />
+        <option value="$PROJECT_DIR$/dev/index.html" />
       </list>
     </option>
   </component>
@@ -113,8 +379,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -141,9 +407,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,12 +439,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webpush-front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webpush-front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webpush-front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Webpush-front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Webpush" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -189,11 +495,20 @@
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\DEVELOPMENT\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\css" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\css\assets" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\materil" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\WORKSPACE\PROJECTS\WebPush\codes\Webpush-front" />
-      <recent name="F:\WORKSPACE\PROJECTS\WebPush\codes\Webpush-front\dev" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\css\assets\jquery" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\css\assets\bootstrap" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\css" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\css\assets" />
+      <recent name="E:\Workspace\WebPush\frontend\Webpush-front\dev\fonts" />
     </key>
   </component>
   <component name="RunManager">
@@ -201,6 +516,65 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -212,10 +586,89 @@
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -274,11 +727,81 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SCRATCH_FILE_ID" value="0" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
@@ -297,6 +820,7 @@
       <method />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -317,6 +841,81 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -345,17 +944,11 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -372,37 +965,39 @@
       <workItem from="1451715136762" duration="120000" />
       <workItem from="1451717367036" duration="8087000" />
       <workItem from="1451801832425" duration="2430000" />
+      <workItem from="1451891418907" duration="9590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11466000" />
+    <option name="totallyTimeSpent" value="21056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2774524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23548046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23622048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -421,43 +1016,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bower.json">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
+          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/js/login.js">
+    <entry file="file://$PROJECT_DIR$/scripts/cheerhelper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/js/common/constant.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -468,17 +1037,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/scripts/cheerhelper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -493,125 +1055,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/cheerhelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/scripts/ui-jp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/scripts/ui-jp.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/cheerhelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/cheerhelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/scripts/ui-jp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/html/scripts/ui-jp.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6785714">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -622,21 +1065,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../template/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22196262">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21052632">
@@ -644,32 +1072,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22273782">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24561404">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.13422818">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding />
         </state>
@@ -677,16 +1082,329 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/js/common/constant.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.17973857">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1451891747950" expanded="true" signature="212:308" placeholder="{...}" />
+            <marker date="1451891747950" expanded="true" signature="232:298" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14705883">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.016853932">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15648286">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6644737">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.31045753">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index_bak.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../template/materil/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23648648">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/var/rmargin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/var/isHidden.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/var/cssExpand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/var/getStyles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/var/rnumnonpx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/swap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/support.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/addGetHookIf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/defaultDisplay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/html/images/a0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/html/scripts/app.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.494382">
+          <caret line="0" column="4346" selection-start-line="0" selection-start-column="4346" selection-end-line="0" selection-end-column="4346" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/libs/assets/animate.css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/lib/jquery/src/css/curCSS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/html/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/html/images/p0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/images/c0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/images/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/fonts/roboto/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/scripts/app.src.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/styles/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86587185">
+          <caret line="6197" column="1" selection-start-line="6197" selection-start-column="1" selection-end-line="6197" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32374102">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/styles/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4023845">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/styles/material-design-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24590164">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/fonts/roboto/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/assets/material-design-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/assets/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/assets/animate.css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022354694">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/material-design-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/assets/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58122206">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/assets/jquery/waves.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="116.333336">
+          <caret line="347" column="1" selection-start-line="347" selection-start-column="1" selection-end-line="347" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.083334">
+          <caret line="1041" column="0" selection-start-line="1041" selection-start-column="0" selection-end-line="1041" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/materil/scripts/ui-nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.709389">
+          <caret line="566" column="47" selection-start-line="566" selection-start-column="47" selection-end-line="566" selection-end-column="47" />
           <folding />
         </state>
       </provider>

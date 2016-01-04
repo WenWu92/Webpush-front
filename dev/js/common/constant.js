@@ -6,6 +6,10 @@ define(function () {
         //登录页面
         LOGIN_PAGE: '/login.html',
         //业务接口
-        SERVICE: {}
+        SERVICE: {
+            USER: {
+                LOGIN: server_host + '/user/login'
+            }
+        }
     }
 });

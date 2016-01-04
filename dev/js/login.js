@@ -7,8 +7,8 @@ require.config({
     shim: {}
 });
 
-require(['constant'],function(CONSTANT){
-    document.forms[0].onsubmit = function(){
+require(['constant'], function (CONSTANT) {
+    document.forms[0].onsubmit = function () {
         return login();
     }
 
@@ -22,19 +22,19 @@ require(['constant'],function(CONSTANT){
         } else { // code for IE6, IE5
             xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
         }
-        xmlhttp.onreadystatechange = function() {
+        xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
                 var response = eval('(' + xmlhttp.responseText + ')');
                 console.log(response);
-                if(response.code === 0){
+                if (!response.code) {
                     sessionStorage.setItem('userInfo', JSON.stringify(response.data));
-                    location.href = '/index.html';
-                }else{
+                    location.href = '/index_bak.html';
+                } else {
                     alert(response.msg);
                 }
             }
         }
-        xmlhttp.open('POST', CONSTANT.SERVER_HOST + '/user/login?username=' + userName + '&password=' + passWord, true);
+        xmlhttp.open('POST', CONSTANT.SERVICE.USER.LOGIN + '?username=' + userName + '&password=' + passWord, true);
         xmlhttp.send();
 
         return false;
