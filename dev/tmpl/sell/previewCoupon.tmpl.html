@@ -179,10 +179,10 @@
 			</div>
 			<div class="main">
 				<ul class="clearfix">
-					<li ng-repeat="shopName in modalCache.data.sendShopNameList track by $index" ng-bind="shopName.shopName"></li>
+					<li ng-repeat="shopName in modalCache.data.sendShopList" ng-bind="shopName.shopName"></li>
 				</ul>
 				<div class="summary">
-					完成&nbsp;{{modalCache.data.sendRange==1?'预定消费&nbsp;点餐消费':(modalCache.data.sendRange==2?'预定消费':'点餐消费')}}，&nbsp;满&nbsp;{{modalCache.data.getExceedValue}}&nbsp;元可获得。&nbsp;{{modalCache.data.isRepeatGet==1?'':'不'}}可重复获得。
+					完成&nbsp;{{modalCache.data.sentRange==1?'预定消费&nbsp;点餐消费':(modalCache.data.sentRange==2?'预定消费':'点餐消费')}}，&nbsp;满&nbsp;{{modalCache.data.getExceedValue}}&nbsp;元可获得。&nbsp;{{modalCache.data.isRepeatGet==1?'':'不'}}可重复获得。
 				</div>
 			</div>
 		</div>
@@ -217,7 +217,7 @@
 			</div>
 			<div class="main">
 				<ul class="clearfix">
-					<li ng-repeat="shopName in modalCache.helperObj.useShopNameList track by $index" ng-bind="shopName"></li>
+					<li ng-repeat="shop in modalCache.data.useShopList" ng-bind="shop.shopName"></li>
 				</ul>
 				<div class="summary">
 					完成&nbsp;{{modalCache.data.useRange==1?'预定消费&nbsp;点餐消费':(modalCache.data.useRange==2?'预定消费':'点餐消费')}}&nbsp;可使用。

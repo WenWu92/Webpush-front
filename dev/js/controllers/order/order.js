@@ -1,4 +1,4 @@
-define(['../../app', '../../common/utilities', 'moment'], function(app, UTILITIES, moment) {
+define(['../../app', 'utilities', 'moment'], function(app, UTILITIES, moment) {
     'use strict';
     return ['$scope', '$http', '$state', 'CONSTANT', function($scope, $http, $state, CONSTANT) {
 

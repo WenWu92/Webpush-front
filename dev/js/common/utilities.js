@@ -1,4 +1,4 @@
-define(['js/common/constant.js','socket.io'], function(CONSTANT,io) {
+define(['constant','socket.io'], function(CONSTANT,io) {
 	return {
 		getToastPosition: function() {
 			var last = {

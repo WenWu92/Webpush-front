@@ -24,7 +24,8 @@ require.config({
 		// custom
 		'common': '../js/common/common',
 		'constant': '../js/common/constant',
-		'utilities': '../js/common/utilities'
+		'utilities': '../js/common/utilities',
+		'view_service': '../js/common/view_service'
 	},
 
 	shim: {

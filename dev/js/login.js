@@ -28,7 +28,7 @@ require(['constant'], function (CONSTANT) {
                 console.log(response);
                 if (!response.code) {
                     sessionStorage.setItem('userInfo', JSON.stringify(response.data));
-                    location.href = '/index_bak.html';
+                    location.href = '/index.html';
                 } else {
                     alert(response.msg);
                 }
