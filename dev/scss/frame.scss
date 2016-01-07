@@ -9,43 +9,47 @@ html{
 		.wrapper{
 			height: 100%;
 			.header{
-				height: 90px;
+				height: 70px;
+				box-shadow: $shadow_d;
 				.logo-container{
-					width: 200px;
-					height: 90px;
+					width: 240px;
+					height: 70px;
 					float: left;
-					background-color: #4dc1ff;
+					background:url(../img/logo.png) $main_bg no-repeat center;
 					cursor: pointer;
 					line-height: 50px;
-					color: #fff;
+					color: $font;
 					font-size: 18px;
+					box-shadow: 5px 0 10px rgba(227, 226, 228, 0.6);
 				}
 				.right-container{
-					margin-left: 200px;
-					height: 90px;
-					background-color: #fff;
-					box-shadow: 0 2px 2px rgba(227, 226, 228, 0.4);
+					margin-left: 240px;
+					height: 70px;
+					background-color: $main_bg;
 					-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=2,Direction=180, Color='#d6d5d7')";
 				}
 			}
 			.main{
-				top: 90px;
+				top: 70px;
 				height: auto;
 				position: absolute;
 				width: 100%;
 				bottom: 0;
 				.left-menu{
 					height: 100%;
-					width: 200px;
+					width: 240px;
 					float: left;
-					background-color: #2f3a4d;
+					background-color: $main_bg;
+					box-shadow: $shadow_r;
+					border-top: 1px solid #f7f8f8;
 					ul{
 						li{
 							height: 80px;
 							line-height: 80px;
 							cursor: pointer;
-							color: #a1afb7;
+							color: $font2;
 							position: relative;
+							padding-left: 80px;
 							button{
 								width: 100%;
 								height: 100%;
@@ -59,31 +63,30 @@ html{
 								}
 							}
 							&.active{
-								background-color:#2a3344;
-								color: #fff;
+								background-color:$main_bg_active;
+								color: $font;
 								&::before{
 									content:' ';
 									display: inline-block;
-									width: 4px;
+									width: 2px;
 									height: 100%;
-									/*float: right;*/
 									background-color: $light;
 									position: absolute;
 									top: 0;
 									left: 0;
 								}
 							}
-							/*&:hover{
-								background-color:$black2;
-							}*/
+							&:hover{
+								background-color:$main_bg_active;
+							}
 						}
 					}
 				}
 				.right-content{
-					background-color: #e5edf1;
+					background-color: $main_content_bg;
 					padding: 20px;
-					margin-left: 200px;
-					height: calc(100% - 40px);
+					margin-left: 240px;
+					height: 100%;
 					overflow-x: auto;
 					box-shadow: 0 2px 2px 0 #dbe2e6 inset;
 					.container{
